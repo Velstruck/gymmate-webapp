@@ -9,5 +9,5 @@
 <h3>Build with:</h3>
 
 » Tailwind CSS <br>
-» React JS
+» React JS  <br>
 » Firebase DB
